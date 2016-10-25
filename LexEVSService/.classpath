@@ -70,7 +70,6 @@
 	<classpathentry kind="lib" path="system/lib/jettison-1.1.jar"/>
 	<classpathentry kind="lib" path="system/lib/jsr250-api-1.0.jar"/>
 	<classpathentry kind="lib" path="system/lib/jta-1.1.jar"/>
-	<classpathentry kind="lib" path="system/lib/junit-4.10.jar"/>
 	<classpathentry kind="lib" path="system/lib/lexbig.jar" sourcepath="/lbImpl"/>
 	<classpathentry kind="lib" path="system/lib/LexEVSSecurity.jar"/>
 	<classpathentry kind="lib" path="system/lib/looks-2.1.4.jar"/>
@@ -138,6 +137,7 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/SDK4_1_1"/>
 	<classpathentry kind="lib" path="system/lib/sqlbuilder-2.0.11.jar"/>
 	<classpathentry kind="lib" path="system/lib/common-util-1.0.2.jar"/>
-	<classpathentry kind="lib" path="system/lib/lexbig-test-6.4.1.1.FINAL-tests.jar"/>
+	<classpathentry kind="lib" path="system/lib/lexbig-test-6.4.2.FINAL-tests.jar"/>
+	<classpathentry kind="lib" path="system/lib/junit-4.12.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
